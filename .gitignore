@@ -19,3 +19,7 @@ credentials.env
 
 # Logs
 *.log
+
+# GameDay data
+data/
+.envrc
