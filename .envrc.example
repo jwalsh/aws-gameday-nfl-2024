@@ -1,0 +1,10 @@
+# AWS GameDay Environment Configuration
+export AWS_ACCOUNT_ID=860939655105
+export AWS_ROLE_ARN="arn:aws:iam::860939655105:role/WSParticipantRole"
+export AWS_DEFAULT_REGION=us-west-2
+export AWS_SECONDARY_REGION=us-east-1
+
+# Event Information
+export TEAM_NUMBER=177
+export EVENT_DATE=2024-10-24
+export GAMEDAY_URL="https://d2me2df8zaegou.cloudfront.net"
